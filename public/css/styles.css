@@ -1,0 +1,17 @@
+body{
+    color: black;
+    max-width: 650px;
+    padding: 0 200px;
+    margin: 0 auto;
+}
+header{
+    margin-top: 20px;
+    margin-bottom: 47px;
+}
+
+footer{
+    padding: 160px ;
+    color: green;
+    margin-top: 20px;
+    border-top:1px solid black;
+}
